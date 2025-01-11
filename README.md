@@ -37,8 +37,8 @@
 
 ## About Me
 
-- 🎓 I'm an industrial PhD candidate at [Ericsson Research](https://github.com/ericssonresearch) and [KTH Royal Institute of Technology](https://github.com/KTH).
-- 🧠 My research focuses on Explainable Reinforcement Learning applied to telecom networks.
+- 🎓 I'm a machine learning researcher at [Ericsson Research](https://github.com/ericssonresearch) and [KTH Royal Institute of Technology](https://github.com/KTH).
+- 🧠 My research focuses on reinforcement learning and explainable AI.
 - 💻 I'm passionate about AI, machine learning, and open-source development.
 - 📚 I love to share knowledge, collaborate, and learn from the community.
 
