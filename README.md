@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/franco-ruggeri">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&center=true&lines=Franco+Ruggeri;Researcher+%7C+PhD+Candidate+%7C+ML+Engineer;AI+%7C+Reinforcement+Learning+%7C+Control" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&center=true&lines=Franco+Ruggeri;ML+Researcher+%7C+Software+Engineer;AI+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -37,7 +37,7 @@
 
 ## About Me
 
-- 🎓 I'm a machine learning researcher at [Ericsson Research](https://github.com/ericssonresearch) and [KTH Royal Institute of Technology](https://github.com/KTH).
+- 🎓 I'm a machine learning researcher at [Ericsson Research](https://github.com/ericssonresearch).
 - 🧠 My research focuses on reinforcement learning and explainable AI.
 - 💻 I'm passionate about AI, machine learning, and open-source development.
 - 📚 I love to share knowledge, collaborate, and learn from the community.
