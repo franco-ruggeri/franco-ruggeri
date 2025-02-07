@@ -12,16 +12,17 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 -->
-<a href="https://www.linkedin.com/in/francoruggeri95/">
+<a href="https://www.linkedin.com/in/ruggeri-franco/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:francoruggeri95@gmail.com">
+<a href="mailto:ruggeri.fnc@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://orcid.org/0000-0002-3230-6237">
     <img src="https://img.shields.io/badge/-OrcID-green?style=flat-square&logo=orcid&logoColor=white">
 </a>
-<a href="https://scholar.google.com/citations?user=MYlj7mQAAAAJ&hl=en">
+
+<a href="https://scholar.google.com/citations?user=oCEqdagAAAAJ&hl=en">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <br/> 
