@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/franco-ruggeri">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&center=true&lines=Franco+Ruggeri;ML+Researcher+%7C+Software+Engineer;AI+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&center=true&lines=Franco+Ruggeri;Machine+Learning+%7C+Software+Engineering" alt="Typing SVG" />
 </a>
 <br/>
 
