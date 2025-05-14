@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-OrcID-green?style=flat-square&logo=orcid&logoColor=white">
 </a>
 
-<a href="https://scholar.google.com/citations?user=oCEqdagAAAAJ&hl=en">
+<a href="https://scholar.google.com/citations?user=AvzwP0MAAAAJ&hl=en">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <br/> 
